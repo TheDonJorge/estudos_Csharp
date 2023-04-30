@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace meuSistema
 {
-    public partial class Form1 : Form
+    public partial class FrmMeuSistema : Form
     {
-        public Form1()
+        public FrmMeuSistema()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
