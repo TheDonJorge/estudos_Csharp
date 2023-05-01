@@ -12,6 +12,11 @@ namespace meuSistema
 {
     public partial class FrmMeuSistema : Form
     {
+
+        public string nome;
+
+        private int valor;
+
         public FrmMeuSistema()
         {
             InitializeComponent();
