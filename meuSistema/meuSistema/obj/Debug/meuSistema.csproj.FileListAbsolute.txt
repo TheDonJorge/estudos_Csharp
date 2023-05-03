@@ -1,0 +1,11 @@
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\bin\Debug\meuSistema.exe.config
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\bin\Debug\meuSistema.exe
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\bin\Debug\meuSistema.pdb
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.FrmMeuSistema.resources
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.Properties.Resources.resources
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.exe
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\meuSistema\obj\Debug\meuSistema.pdb
