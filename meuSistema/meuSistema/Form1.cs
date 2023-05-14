@@ -40,6 +40,9 @@ namespace meuSistema
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+
+            int[] valores = { 1, 2, 8};
+
             valor1 = int.Parse(txtparc1.Text);
             valor2 = int.Parse(txtparc2.Text);
 
