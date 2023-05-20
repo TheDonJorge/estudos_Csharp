@@ -1,0 +1,11 @@
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\bin\Debug\AppEscola.exe.config
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\bin\Debug\AppEscola.exe
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\bin\Debug\AppEscola.pdb
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.Form1.resources
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.Properties.Resources.resources
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.exe
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.pdb
