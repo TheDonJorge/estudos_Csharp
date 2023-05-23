@@ -31,6 +31,18 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lblNome = new System.Windows.Forms.Label();
             this.dtData = new System.Windows.Forms.DateTimePicker();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtNota1 = new System.Windows.Forms.TextBox();
+            this.txtNota2 = new System.Windows.Forms.TextBox();
+            this.txtNota3 = new System.Windows.Forms.TextBox();
+            this.txtNota4 = new System.Windows.Forms.TextBox();
+            this.btnExecutar = new System.Windows.Forms.Button();
+            this.btnStatus = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.lblMedia = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -62,12 +74,130 @@
             this.dtData.Size = new System.Drawing.Size(107, 20);
             this.dtData.TabIndex = 2;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(30, 134);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(56, 20);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Nota 1";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(30, 199);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(56, 20);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Nota 2";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(30, 264);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(56, 20);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "Nota 3";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(30, 339);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(56, 20);
+            this.label5.TabIndex = 6;
+            this.label5.Text = "Nota 4";
+            // 
+            // txtNota1
+            // 
+            this.txtNota1.Location = new System.Drawing.Point(92, 134);
+            this.txtNota1.Name = "txtNota1";
+            this.txtNota1.Size = new System.Drawing.Size(100, 20);
+            this.txtNota1.TabIndex = 7;
+            // 
+            // txtNota2
+            // 
+            this.txtNota2.Location = new System.Drawing.Point(92, 199);
+            this.txtNota2.Name = "txtNota2";
+            this.txtNota2.Size = new System.Drawing.Size(100, 20);
+            this.txtNota2.TabIndex = 8;
+            // 
+            // txtNota3
+            // 
+            this.txtNota3.Location = new System.Drawing.Point(92, 264);
+            this.txtNota3.Name = "txtNota3";
+            this.txtNota3.Size = new System.Drawing.Size(100, 20);
+            this.txtNota3.TabIndex = 9;
+            // 
+            // txtNota4
+            // 
+            this.txtNota4.Location = new System.Drawing.Point(92, 341);
+            this.txtNota4.Name = "txtNota4";
+            this.txtNota4.Size = new System.Drawing.Size(100, 20);
+            this.txtNota4.TabIndex = 10;
+            // 
+            // btnExecutar
+            // 
+            this.btnExecutar.Location = new System.Drawing.Point(92, 385);
+            this.btnExecutar.Name = "btnExecutar";
+            this.btnExecutar.Size = new System.Drawing.Size(100, 23);
+            this.btnExecutar.TabIndex = 11;
+            this.btnExecutar.Text = "Executar";
+            this.btnExecutar.UseVisualStyleBackColor = true;
+            // 
+            // btnStatus
+            // 
+            this.btnStatus.Location = new System.Drawing.Point(464, 385);
+            this.btnStatus.Name = "btnStatus";
+            this.btnStatus.Size = new System.Drawing.Size(107, 23);
+            this.btnStatus.TabIndex = 12;
+            this.btnStatus.Text = "Situação";
+            this.btnStatus.UseVisualStyleBackColor = true;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(30, 462);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(56, 20);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Média:";
+            // 
+            // lblMedia
+            // 
+            this.lblMedia.AutoSize = true;
+            this.lblMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMedia.Location = new System.Drawing.Point(92, 466);
+            this.lblMedia.Name = "lblMedia";
+            this.lblMedia.Size = new System.Drawing.Size(14, 16);
+            this.lblMedia.TabIndex = 14;
+            this.lblMedia.Text = "0";
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(802, 549);
+            this.Controls.Add(this.lblMedia);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.btnStatus);
+            this.Controls.Add(this.btnExecutar);
+            this.Controls.Add(this.txtNota4);
+            this.Controls.Add(this.txtNota3);
+            this.Controls.Add(this.txtNota2);
+            this.Controls.Add(this.txtNota1);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.dtData);
             this.Controls.Add(this.lblNome);
             this.Controls.Add(this.label1);
@@ -86,6 +216,18 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblNome;
         private System.Windows.Forms.DateTimePicker dtData;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtNota1;
+        private System.Windows.Forms.TextBox txtNota2;
+        private System.Windows.Forms.TextBox txtNota3;
+        private System.Windows.Forms.TextBox txtNota4;
+        private System.Windows.Forms.Button btnExecutar;
+        private System.Windows.Forms.Button btnStatus;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label lblMedia;
     }
 }
 
