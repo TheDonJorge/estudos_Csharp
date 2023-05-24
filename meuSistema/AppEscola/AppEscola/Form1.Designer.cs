@@ -73,6 +73,7 @@
             this.dtData.Name = "dtData";
             this.dtData.Size = new System.Drawing.Size(107, 20);
             this.dtData.TabIndex = 2;
+            this.dtData.Value = new System.DateTime(2019, 5, 23, 22, 7, 0, 0);
             // 
             // label2
             // 
@@ -150,6 +151,7 @@
             this.btnExecutar.TabIndex = 11;
             this.btnExecutar.Text = "Executar";
             this.btnExecutar.UseVisualStyleBackColor = true;
+            this.btnExecutar.Click += new System.EventHandler(this.btnExecutar_Click);
             // 
             // btnStatus
             // 
@@ -206,6 +208,7 @@
             this.Name = "FrmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EAD Fill";
+            this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
