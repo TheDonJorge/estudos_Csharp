@@ -15,7 +15,7 @@ namespace AppEscola
 
         float n1, n2, n3, n4, media;
 
-        private void btnExecutar_Click(object sender, EventArgs e)
+        public void resultado()
         {
             n1 = float.Parse(txtNota1.Text);
             n2 = float.Parse(txtNota2.Text);
@@ -25,6 +25,11 @@ namespace AppEscola
             media = (n1 + n2 + n3 + n4) / 4;
 
             lblMedia.Text = media.ToString();
+        }
+
+        private void btnExecutar_Click(object sender, EventArgs e)
+        {
+            resultado();
         }
 
         public FrmPrincipal()

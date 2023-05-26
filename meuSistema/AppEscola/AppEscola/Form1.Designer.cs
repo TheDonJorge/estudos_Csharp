@@ -121,6 +121,7 @@
             this.txtNota1.Name = "txtNota1";
             this.txtNota1.Size = new System.Drawing.Size(100, 20);
             this.txtNota1.TabIndex = 7;
+            this.txtNota1.Text = "0";
             // 
             // txtNota2
             // 
@@ -128,6 +129,7 @@
             this.txtNota2.Name = "txtNota2";
             this.txtNota2.Size = new System.Drawing.Size(100, 20);
             this.txtNota2.TabIndex = 8;
+            this.txtNota2.Text = "0";
             // 
             // txtNota3
             // 
@@ -135,6 +137,7 @@
             this.txtNota3.Name = "txtNota3";
             this.txtNota3.Size = new System.Drawing.Size(100, 20);
             this.txtNota3.TabIndex = 9;
+            this.txtNota3.Text = "0";
             // 
             // txtNota4
             // 
@@ -142,6 +145,7 @@
             this.txtNota4.Name = "txtNota4";
             this.txtNota4.Size = new System.Drawing.Size(100, 20);
             this.txtNota4.TabIndex = 10;
+            this.txtNota4.Text = "0";
             // 
             // btnExecutar
             // 
