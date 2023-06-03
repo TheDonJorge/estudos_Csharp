@@ -9,3 +9,4 @@ C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\ob
 C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.exe
 C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.pdb
 C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.FrmPrincipal.resources
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\AppEscola\obj\Debug\AppEscola.FrmLogin.resources

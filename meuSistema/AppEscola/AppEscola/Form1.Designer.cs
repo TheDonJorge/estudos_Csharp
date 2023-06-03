@@ -43,6 +43,8 @@
             this.btnStatus = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.lblMedia = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.lblStatus = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -59,6 +61,7 @@
             // 
             this.lblNome.AutoSize = true;
             this.lblNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNome.ForeColor = System.Drawing.Color.Coral;
             this.lblNome.Location = new System.Drawing.Point(158, 45);
             this.lblNome.Name = "lblNome";
             this.lblNome.Size = new System.Drawing.Size(100, 16);
@@ -186,12 +189,34 @@
             this.lblMedia.TabIndex = 14;
             this.lblMedia.Text = "0";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(30, 502);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(76, 20);
+            this.label7.TabIndex = 15;
+            this.label7.Text = "Situação:";
+            // 
+            // lblStatus
+            // 
+            this.lblStatus.AutoSize = true;
+            this.lblStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblStatus.Location = new System.Drawing.Point(121, 506);
+            this.lblStatus.Name = "lblStatus";
+            this.lblStatus.Size = new System.Drawing.Size(16, 16);
+            this.lblStatus.TabIndex = 16;
+            this.lblStatus.Text = "...";
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(802, 549);
+            this.Controls.Add(this.lblStatus);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.lblMedia);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.btnStatus);
@@ -235,6 +260,8 @@
         private System.Windows.Forms.Button btnStatus;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label lblMedia;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label lblStatus;
     }
 }
 

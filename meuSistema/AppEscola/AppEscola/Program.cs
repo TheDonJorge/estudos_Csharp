@@ -8,6 +8,9 @@ namespace AppEscola
 {
     internal static class Program
     {
+
+        public static string usuario;
+
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
         /// </summary>
@@ -16,7 +19,7 @@ namespace AppEscola
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmPrincipal());
+            Application.Run(new FrmLogin());
         }
     }
 }

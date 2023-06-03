@@ -10,8 +10,11 @@ using System.Windows.Forms;
 
 namespace AppEscola
 {
+
+
     public partial class FrmPrincipal : Form
     {
+
 
         float n1, n2, n3, n4, media;
 
@@ -27,9 +30,21 @@ namespace AppEscola
             lblMedia.Text = media.ToString();
         }
 
+        public void mediaAluno()
+        {
+            if(media < 7)
+            {
+                lblStatus.Text = "Reprovado";
+            } else
+            {
+                lblStatus.Text = "Aprovado";
+            }
+        }
+
         private void btnExecutar_Click(object sender, EventArgs e)
         {
             resultado();
+            mediaAluno();
         }
 
         public FrmPrincipal()
@@ -45,6 +60,8 @@ namespace AppEscola
         private void FrmPrincipal_Load(object sender, EventArgs e)
         {
             dtData.Text = DateTime.Today.ToString();
+            lblNome.Text = Program.usuario;
+
         }
     }
 }

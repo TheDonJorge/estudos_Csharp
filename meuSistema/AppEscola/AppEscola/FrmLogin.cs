@@ -16,5 +16,28 @@ namespace AppEscola
         {
             InitializeComponent();
         }
+
+        private void btnLogar_Click(object sender, EventArgs e)
+        {
+             if(txtNome.Text == "")
+            {
+                MessageBox.Show("Digite um nome");
+                return;
+            }
+            if (txtSenha.Text == "123")
+            {
+                FrmPrincipal frm = new FrmPrincipal();
+                frm.ShowDialog();
+
+                this.Close();
+            } else
+            {
+                MessageBox.Show("Digite a senha");
+                return;
+            }
+
+            Program.usuario = txtNome.Text;
+
+        }
     }
 }
