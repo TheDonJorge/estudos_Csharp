@@ -1,0 +1,17 @@
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\bin\Debug\net6.0-windows\MinhaAplicação.exe
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\bin\Debug\net6.0-windows\MinhaAplicação.deps.json
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\bin\Debug\net6.0-windows\MinhaAplicação.runtimeconfig.json
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\bin\Debug\net6.0-windows\MinhaAplicação.dll
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\bin\Debug\net6.0-windows\MinhaAplicação.pdb
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.Form1.resources
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.AssemblyInfo.cs
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.dll
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\refint\MinhaAplicação.dll
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.pdb
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\MinhaAplicação.genruntimeconfig.cache
+C:\Users\jorge\Documents\GitHub\estudos_Csharp\meuSistema\AppEscola\MinhaAplicação\obj\Debug\net6.0-windows\ref\MinhaAplicação.dll
