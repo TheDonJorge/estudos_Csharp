@@ -1,4 +1,6 @@
 using System.Windows.Forms;
+using System.IO;
+using System.Text;
 
 namespace MinhaAplicação
 {
@@ -31,9 +33,19 @@ namespace MinhaAplicação
 
             MessageBox.Show("O preço final é: " + c.MostrarPreco(precoInicial, tipoProduto));
 
-            
 
-            
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            StreamWriter arq = new StreamWriter(@"D:\Arquivo.txt", false, Encoding.UTF8);
+
+            arq.WriteLine("Minha primeira linha de texto");
+
+            arq.Dispose();
+
         }
     }
 }
